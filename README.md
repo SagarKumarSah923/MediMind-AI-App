@@ -1,3 +1,23 @@
+# 🧠 MediMind-AI
+
+*MediMind-AI* is an AI-powered healthcare assistant that provides intelligent diagnostics, personalized health insights, and patient support using state-of-the-art Natural Language Processing (NLP), Machine Learning (ML), and Deep Learning (DL) models. Built using Django, FastAPI, and TensorFlow, MediMind-AI aims to enhance healthcare accessibility and efficiency for users across the globe.
+
+---
+
+## 🚀 Features
+
+- ✅ Symptom-based Disease Prediction using ML/DL
+- 💬 AI-Powered Health Chatbot (NLP)
+- 📊 Health Insights & Analytics Dashboard
+- 🧾 Patient Record Management
+- 🔐 User Authentication & Admin Interface
+- 🧠 Scalable Architecture (Django + FastAPI microservices)
+- 🌐 Deployed using Docker + Render/AWS
+
+---
+
+## 🏗 Architecture
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
